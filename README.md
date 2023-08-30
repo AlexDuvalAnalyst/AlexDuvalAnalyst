@@ -13,4 +13,3 @@ You can find my personnal website here : <a href = "https://alexdataproject.com/
   - A bit of javascript and php when needed
   - HTML / CSS
   - SQL / NoSQL
--->

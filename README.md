@@ -7,5 +7,10 @@ You can find my personnal website here : <a href = "https://alexdataproject.com/
 
 - 🔭 I’m currently working on web applications related to data engineering and data analysis.
 - 📫 Reach me on my <a href = "https://www.linkedin.com/in/alexandre-duval-6021711ba/">linkedin</a>
-- Tech
+- I mostly use :
+  - Python and its frameworks (Django, Dash, fastAPI)
+  - R and Shiny
+  - A bit of javascript and php when needed
+  - HTML / CSS
+  - SQL / NoSQL
 -->

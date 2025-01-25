@@ -3,7 +3,7 @@
 
 <p>With a scientific background and passionate about programming/data analysis, I practice these fields in my professional activity but also for my personal projects. My skills allow me to carry out projects through data management, data processing and analysis (including machine learning), to the development of web applications (in full stack)</p>
 
-You can find my personnal website here : <a target="_blank" href = "https://alexdataproject.fr/">alexdataproject.fr</a>
+You can find my personnal website here : <a target="_blank" href = "https://alexdataproject.org/">alexdataproject.fr</a>
 
 - 🔭 I’m currently working on web applications related to data engineering and data analysis.
 - 📫 Reach me on my <a target="_blank" href = "https://www.linkedin.com/in/alexandre-duval-6021711ba/">linkedin</a>
